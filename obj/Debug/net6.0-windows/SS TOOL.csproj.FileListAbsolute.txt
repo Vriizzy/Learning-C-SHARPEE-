@@ -1,0 +1,17 @@
+C:\Users\micke\Source\Repos\SS TOOL\bin\Debug\net6.0-windows\SS TOOL.exe
+C:\Users\micke\Source\Repos\SS TOOL\bin\Debug\net6.0-windows\SS TOOL.deps.json
+C:\Users\micke\Source\Repos\SS TOOL\bin\Debug\net6.0-windows\SS TOOL.runtimeconfig.json
+C:\Users\micke\Source\Repos\SS TOOL\bin\Debug\net6.0-windows\SS TOOL.dll
+C:\Users\micke\Source\Repos\SS TOOL\bin\Debug\net6.0-windows\SS TOOL.pdb
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.csproj.AssemblyReference.cache
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS_TOOL.Form1.resources
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.csproj.GenerateResource.cache
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.AssemblyInfoInputs.cache
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.AssemblyInfo.cs
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.csproj.CoreCompileInputs.cache
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.dll
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\refint\SS TOOL.dll
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.pdb
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\SS TOOL.genruntimeconfig.cache
+C:\Users\micke\Source\Repos\SS TOOL\obj\Debug\net6.0-windows\ref\SS TOOL.dll
